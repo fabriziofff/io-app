@@ -3,6 +3,7 @@
   IO - The public services app
 </p>
 
+
 <p align="center">
     <a href="https://circleci.com/gh/pagopa/io-app">
         <img src="https://circleci.com/gh/pagopa/io-app.svg?style=svg" />
